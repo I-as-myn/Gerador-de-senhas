@@ -1,5 +1,5 @@
 {
-  "name": "aula-grunt",
+  "name": "pratiques-grunt",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
@@ -12,11 +12,9 @@
   "description": "",
   "devDependencies": {
     "grunt": "^1.6.1",
-    "grunt-concurrent": "^3.0.0",
     "grunt-contrib-clean": "^2.0.1",
     "grunt-contrib-htmlmin": "^3.1.0",
     "grunt-contrib-less": "^3.0.0",
-    "grunt-contrib-sass": "^2.0.0",
     "grunt-contrib-uglify": "^5.2.2",
     "grunt-contrib-watch": "^1.1.0",
     "grunt-replace": "^2.0.2"
